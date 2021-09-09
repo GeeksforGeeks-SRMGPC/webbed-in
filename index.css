@@ -31,7 +31,8 @@ h3 {
     color: var(--foreground);
 }
 
-p {
+p,
+li {
     font-size: 0.95rem;
     line-height: 2;
 }
